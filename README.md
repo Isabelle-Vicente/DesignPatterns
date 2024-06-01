@@ -70,15 +70,15 @@ MANTENDO O CONTEXTO ÚNICO?
 </p>
 
 <p align="center">
-  <img src="https://whimsical.com/design-pattens-TMpov9AnSRSPKBH6sLwC7W" width="100%">
+  <img src="./assets/antesAbstractFactory.png" width="100%">
 </p>
 
 <p align="center">
-  Exemplo Antes do Abstract Factory
+  Exemplo Depois do Abstract Factory
 </p>
 
 <p align="center">
-  <img src="https://whimsical.com/design-pattens-TMpov9AnSRSPKBH6sLwC7W" width="100%">
+  <img src="./assets/depoisAbstrctFactory.png" width="100%">
 </p>
 
 ## :memo:  Referencias 
